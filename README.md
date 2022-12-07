@@ -3,8 +3,8 @@
 
 ### Contributors
 
-Aly Bakkoury MSE 23 Columbia University 
-Hugp Artigas MSBA 23 Columbia University
+Aly Bakkoury MSE 23 Columbia University  
+Hugo Artigas MSBA 23 Columbia University
 
 ### Instructions to use the code
 
